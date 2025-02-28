@@ -1,1 +1,4 @@
-Mini stronka
+# Tytuł strony
+lorem
+# Poddtytuł strony 
+ipsum
