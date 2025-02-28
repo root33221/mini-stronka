@@ -1,4 +1,4 @@
 # Tytuł strony
 lorem
-# Poddtytuł strony 
+## Poddtytuł strony 
 ipsum
